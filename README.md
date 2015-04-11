@@ -1,5 +1,5 @@
 # GCracker
-![QuickTweetHero Screenshot](http://i.imgur.com/u236ynf.png)
+![GCracker Screenshot](http://i.imgur.com/u236ynf.png)
 
 Trys to crack md5-Hashes.
 
