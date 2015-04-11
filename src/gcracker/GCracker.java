@@ -50,8 +50,7 @@ public class GCracker {
         i[0] = 1;                                               //Saves 1 Hashtry
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("Auf dem Weg zum Pokal...");
-        System.out.println("Welcher Hash wird gesucht? (y to load last hash OR input your own hash)");
+        System.out.println("Which hash is searched? (y to load last hash OR input your own hash)");
         String hash = scan.nextLine();
         if (hash.equals("y")) {
             FileReader fr = new FileReader("hash.txt");
